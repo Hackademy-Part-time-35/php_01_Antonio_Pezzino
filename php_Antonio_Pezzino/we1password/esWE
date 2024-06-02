@@ -58,7 +58,7 @@ var_dump(checkPassword($password));
 // dovra avere un valore di ritorno booleano true solo se tutte le condizione sono verificate
 
 
-
+// seconda versione :
 
 function checkPassword($password1) {
 
